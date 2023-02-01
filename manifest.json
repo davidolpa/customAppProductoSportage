@@ -1,7 +1,7 @@
 {
   "vendor": "sportageverona",
   "name": "customguidesize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Guia custom",
   "description": "Guia custom",
   "builders": {
